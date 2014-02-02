@@ -1,7 +1,7 @@
 AndroidGameLibrary
 ==================
 
-Androidのゲーム用ライブラリ
+Androidのゲーム用ライブラリ<br>
 
 就職活動用
 
